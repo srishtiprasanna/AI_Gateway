@@ -1,5 +1,3 @@
-# AI Gateway
-
 ## What is an AI Gateway?
 
 An AI Gateway is a layer between an application and AI model providers.
@@ -123,9 +121,3 @@ For example, an AI Gateway needs to handle things such as:
 - Model-specific limits
 - AI request costs
 - LLM fallbacks and routing
-
-## What I learned
-
-From exploring AI Gateways, I understood that an AI Gateway acts as a common layer between applications and different AI providers.
-
-It can simplify model integration and also provide features such as routing, rate limiting, fallbacks, authentication, monitoring, and cost tracking.
