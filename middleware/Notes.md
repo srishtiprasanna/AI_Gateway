@@ -1,4 +1,4 @@
-# FastAPI Middleware - Hands-on
+# FastAPI Middleware - Hands-on (September 10, 2026)
 
 Today I explored FastAPI middleware and how it can be used in an AI Gateway.
 
